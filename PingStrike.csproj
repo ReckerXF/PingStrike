@@ -60,8 +60,6 @@
       <Version>1.0.10230</Version>
     </PackageReference>
     <PackageReference Include="Newtonsoft.Json">
-      <IncludeAssets>compile</IncludeAssets>
-      <PrivateAssets>all</PrivateAssets>
       <Version>13.0.3</Version>
     </PackageReference>
   </ItemGroup>
