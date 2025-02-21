@@ -45,6 +45,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="config.json" />
+    <None Include="fxmanifest.lua">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <Compile Include="ConfigHandler.cs" />
     <Compile Include="Models\Configuration.cs" />
     <Compile Include="Server.cs" />
