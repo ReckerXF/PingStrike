@@ -1,9 +1,9 @@
-PingStrike/.vs/*
-PingStrike/.obj/*
-PingStrike/Properties/*
+.vs/*
+.obj/*
+Properties/*
 UpgradeLog.html
-PingStrike/obj/Debug/
+obj/Debug/
 
-PingStrike/obj/
+obj/
 
-PingStrike/UpgradeLog.htm
+UpgradeLog.htm
