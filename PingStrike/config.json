@@ -1,0 +1,6 @@
+﻿{
+    "pingThreshold": 600,
+    "pollingRate": 15000,
+    "refreshRate": 1800000,
+    "maxStrikes":  3
+}
